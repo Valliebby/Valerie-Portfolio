@@ -20,8 +20,8 @@ Contributing
 This portfolio website is a showcase of my work, skills, and experience as a full-stack developer. It provides an overview of the projects I have worked on, my areas of expertise, and ways to contact me for collaboration or hiring opportunities.
 
 Demo
-A live demo of the portfolio website can be found at: https://www.your-portfolio-website.com
-
+git clone [https://www.your-portfolio-website.com](https://github.com/Valliebby/Valerie-Portfolio.git)
+A live demo of the portfolio website can be found at: http://127.0.0.1:5504/Valerie-Portfolio/index.html
 Technologies Used
 The portfolio website is built using the following technologies:
 
