@@ -21,6 +21,8 @@ This portfolio website is a showcase of my work, skills, and experience as a ful
 
 Demo
 git clone [https://www.your-portfolio-website.com](https://github.com/Valliebby/Valerie-Portfolio.git)
+ 
+Link: https://valliebby.github.io/Valerie-Portfolio/
 A live demo of the portfolio website can be found at: http://127.0.0.1:5504/Valerie-Portfolio/index.html
 Technologies Used
 The portfolio website is built using the following technologies:
